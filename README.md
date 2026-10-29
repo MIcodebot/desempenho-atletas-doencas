@@ -1,6 +1,6 @@
-# 🏅 desempenho-atletas-doencas
+# 🏅 desempenho-atletas-doencas-autoimunes-cronicas
 
-Análise de dados sobre o **desempenho de atletas com doenças**, desenvolvida com Python. Estudo sobre como atletas de alto rendimento lidam com condições médicas e mantêm sua performance.
+Análise de dados sobre o **desempenho de atletas com doenças cronicas e autoimunes**, desenvolvida com Python. Estudo sobre como atletas de alto rendimento lidam com condições médicas e mantêm sua performance.
 
 ---
 
